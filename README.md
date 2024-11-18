@@ -9,3 +9,4 @@
 1. Run the code `./gradlew bootRun`.
 2. Load the the weblink [Web in host 8080](http://localhost:8080/)
     - If the port 8080 currently in use, kill that program to run this one 
+3. If login with correct username and password, the login page will disappear, and page will present text: Unable to process request
